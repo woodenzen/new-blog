@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: dark.html
 title: About Me
 example: Will Simpson
 ---
