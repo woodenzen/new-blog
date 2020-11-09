@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: dark
 title: About Me
+example: Will Simpson
 ---
 
-Some Markdown content describing your site.
+This page digribe the amazing {{ site.title }} by {{ site.author.name }}. {{ page.example }}
+
+{% include big-cat,html %}
 
 ## About About Pages
 
