@@ -6,7 +6,7 @@ example: Will Simpson
 
 This page digribe the amazing {{ site.title }} by {{ site.author.name }}. {{ page.example }}
 
-{% include big-cat,html %}
+{% include big-cat.html %}
 
 ## About About Pages
 
