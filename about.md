@@ -1,10 +1,11 @@
 ---
 layout: dark
-title: About Me
-example: Will Simpson
+title: About
+example: This is an example value.
 ---
 
-This page digribe the amazing {{ site.title }} by {{ site.author.name }}. {{ page.example }}
+This page describes the amazing {{ site.title }} by {{ site.author.name }}.
+{{ page.example }}
 
 {% include big-cat.html %}
 
