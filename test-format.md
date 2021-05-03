@@ -3,7 +3,7 @@ layout: page
 title: Format
 ---
 
-We integrated many [wonderful features](thearchive://match/›[[202005021405]]) to support you in building a self-hosted Zettelkasten. 
+We integrated many [wonderful features](thearchive://match/202005021405) to support you in building a self-hosted Zettelkasten. 
 
 LaTex formating - view in preview mode.
 $(C_8H_8)_n$
