@@ -3,7 +3,7 @@ layout: page
 title: Format
 ---
 
-We integrated many [wonderful features](thearchive://match/202005021405  "Thought Tank features to build well documented and connected thought") to support you in building a self-hosted Zettelkasten. 
+There are integrated many [wonderful features](thearchive://search/202005021405) to support you in building a self-hosted Zettelkasten. 
 
 LaTex formating - view in preview mode.
 $(C_8H_8)_n$
@@ -41,7 +41,7 @@ Kagge, Erling. 2018. Walking: One Step at a Time. Penguin Publishing Group.
 
 https://medium.com/@simp2973/montys-woods-9885bf0cc8ae
 
-⌃⌥⇧⌘ 
+⌃⌥⇧⌘
 
 The Safest Source of Energy Will Surprise You
     - evernote:///view/597091/s5/25a21521-a559-4bfe-82d6-34291661ca2a/25a21521-a559-4bfe-82d6-34291661ca2a/
@@ -49,7 +49,7 @@ The Safest Source of Energy Will Surprise You
     - evernote:///view/597091/s5/46685fce-4122-441a-8e90-bf439f62d06b/46685fce-4122-441a-8e90-bf439f62d06b/
 
 
-⇧⌘C from Zotero 
+⇧⌘C from Zotero
 Gilovich, T, K Savitsky, and V H Medvec. “The Illusion of Transparency: Biased Assessments of Others’ Ability to Read One’s Emotional States.” J Pers Soc Psychol 75, no. 2 (1998): 332–46. https://doi.org/10.1037//0022-3514.75.2.332.
 
 Dickens, Rebecca. “The Zen of Stevens.” Masters Theses - http://thekeep.eiu.edu/theses/2262, Eastern Illinois University, 1990.
@@ -74,7 +74,7 @@ Services > md - Tables - Create from CSV
 |   1    | [[201801000000]] | 1020 Bartho Lane |
 |   2    | [[201901070553]] |   PO Box 9162    |
 
-'"**Testing**"' 
+'"**Testing**"'
 [[testing](!g)](!bt)
 
 [[202008301740]] Target Link
@@ -88,7 +88,7 @@ https://brettterpstra.com/projects/markdown-service-tools/index.html [^7]
 
 Allows you to write footnotes inline using (*This is a footnote*)
 
---- 
+---
 Select then Right Click for "Services"
 
 |    Date    | Measurement | % Body Fat | lbs. of Fat | Lean Mass |
@@ -112,7 +112,7 @@ Select then Right Click for "Services"
 ---
 
 
-[^7]: this is Inline Testing 
+[^7]: this is Inline Testing
 
 ---
 Play a mp3 in VLC link
@@ -122,7 +122,7 @@ Struggling to maker work.
 PDF
 Photo ✔︎
 Word
-MP3 
+MP3
 ![](my-vlc:///Users/will/Dropbox/zettelkasten/media/01_As_Falls_Wichita,_So_Falls_Wichita_Falls.mp3)
 
 
@@ -161,13 +161,12 @@ Show Contents of application and in the info.plist add after the <dict>
 ›[[202010010652]]‹
 "Deconstructing the Placebo Effect and Finding the Meaning Response" (Moerman and Jonas 2002:471)
 
-#thinking-skills 
+#thinking-skills
 
 Investing starts with liquidity:[[202001121202]] You have to have liquidity to make investment decisions unless you are using other people's money (e.g. using leverage).
 
 
 Outline Formating.
-# test 
-## test 
-### test 
-
+# test
+## test
+### test
