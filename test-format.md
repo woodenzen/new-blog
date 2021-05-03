@@ -3,11 +3,7 @@ layout: page
 title: Format
 ---
 
-<<<<<<< HEAD
-There are integrated many [wonderful features](thearchive://search/202005021405) to support you in building a self-hosted Zettelkasten. 
-=======
-We integrated many [wonderful features](thearchive://match/202005021405) to support you in building a self-hosted Zettelkasten. 
->>>>>>> 71e79a5be4124fece0f4ec0a5e2d248b6126b270
+There are integrated many [wonderful features](thearchive://search/›[[202005021405]]) to support you in building a self-hosted Zettelkasten. 
 
 LaTex formating - view in preview mode.
 $(C_8H_8)_n$
